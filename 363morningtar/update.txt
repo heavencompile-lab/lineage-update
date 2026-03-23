@@ -1,6 +1,6 @@
 [main]
 count=14
-url=http://www.lineage-scf.url.tw/363bao6
+url=http://mojialineage1.dpdns.org/363MorningStar
 [update]
 file_0=LinHelperZ.txt
 md5_0=75a4fa0a1b8529ad36474c88f5602d46
