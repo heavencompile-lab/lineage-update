@@ -1,6 +1,6 @@
 [main]
 count=13
-url=http://mojialineage1.dpdns.org/363bao
+url=http://mojialineage1.dpdns.org/363bao/
 [update]
 file_0=LinHelperZ.txt
 md5_0=75a4fa0a1b8529ad36474c88f5602d46
