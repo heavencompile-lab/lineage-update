@@ -1,5 +1,5 @@
 [main]
-count=16
+count=17
 url=https://mojialineage1.dpdns.org/363bao
 [update]
 file_0=LinHelperZ.txt
@@ -30,7 +30,9 @@ file_12=text\Newdollcard6-c.html
 md5_12=90836f1321a1a59feefeb5e2c77a20a6
 file_13=text\shop170356-c.html
 md5_13=9fc349625e69b4dabfff3b584daa613d
-file_14=text\y_who-c.html
-md5_14=e1ab37575f6685efadc6c5071c1ba8eb
-file_15=text\zone3-c.tbl
-md5_15=3d6af34c9650107c7e433e16360cde66
+file_14=text\y_t_0_4-c.html
+md5_14=3c02df9721e2d280a0211d030f1abcb6
+file_15=text\y_who-c.html
+md5_15=e1ab37575f6685efadc6c5071c1ba8eb
+file_16=text\zone3-c.tbl
+md5_16=3d6af34c9650107c7e433e16360cde66
