@@ -1,5 +1,5 @@
 [main]
-count=18
+count=19
 url=https://mojialineage1.dpdns.org/363bao
 [update]
 file_0=LinHelperZ.txt
@@ -38,6 +38,5 @@ file_16=text\y_t_0_4-c.html
 md5_16=3c02df9721e2d280a0211d030f1abcb6
 file_17=text\y_who-c.html
 md5_17=e1ab37575f6685efadc6c5071c1ba8eb
-count=19
 file_18=text\zone3-c.tbl
 md5_18=3d6af34c9650107c7e433e16360cde66
