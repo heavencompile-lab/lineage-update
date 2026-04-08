@@ -1,0 +1,4 @@
+[update]
+count=1
+file_0=text\zone3-c.tbl
+md5_0=d8787b59d296accaf19de637e59b49a8
