@@ -1,4 +1,8 @@
 [update]
-count=1
-file_0=text\zone3-c.tbl
-md5_0=d8787b59d296accaf19de637e59b49a8
+count=3
+file_0=text\slot7-c.html
+md5_0=d2cb1bdd5b2b36903405de3ebf984d64
+file_1=text\string-c.tbl
+md5_1=56a377079af0628fd2d74e3e58270c97
+file_2=text\zone3-c.tbl
+md5_2=d8787b59d296accaf19de637e59b49a8
