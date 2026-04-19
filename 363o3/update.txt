@@ -1,5 +1,7 @@
+[main]
+count=13
+url=http://mojialineage1.dpdns.org/363o3
 [update]
-count=12
 file_0=text\2307706-c.html
 md5_0=dde239fe6b405b57619d6fe818610393
 file_1=text\2307775-c.html
@@ -20,7 +22,9 @@ file_8=text\slot7-c.html
 md5_8=d2cb1bdd5b2b36903405de3ebf984d64
 file_9=text\string-c.tbl
 md5_9=56a377079af0628fd2d74e3e58270c97
-file_10=text\y_who2-c.html
-md5_10=9f31e4dc085a407ebcb12d935d960316
-file_11=text\zone3-c.tbl
-md5_11=d8787b59d296accaf19de637e59b49a8
+file_10=text\y_who-c.html
+md5_10=7de38e5925dbddca1d2c78af3b5bccaa
+file_11=text\y_who2-c.html
+md5_11=9f31e4dc085a407ebcb12d935d960316
+file_12=text\zone3-c.tbl
+md5_12=d8787b59d296accaf19de637e59b49a8
