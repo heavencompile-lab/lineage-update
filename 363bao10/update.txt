@@ -1,5 +1,7 @@
-[update]
+[main]
 count=14
+url=https://mojialineage1.dpdns.org/363bao7
+[update]
 file_0=LinHelperZ.txt
 md5_0=75a4fa0a1b8529ad36474c88f5602d46
 file_1=map\4352\7fff8000.s32
@@ -28,3 +30,4 @@ file_12=text\shop5556750-c.html
 md5_12=04ff49fee4d348afbc6eee733fe54a15
 file_13=text\y_who-c.html
 md5_13=e1ab37575f6685efadc6c5071c1ba8eb
+count=14
