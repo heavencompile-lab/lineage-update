@@ -1,0 +1,6 @@
+[main]
+count=1
+url=https://mojialineage1.dpdns.org/363bao13
+[update]
+file_0=text\zone3-c.tbl
+md5_0=3d6af34c9650107c7e433e16360cde66
