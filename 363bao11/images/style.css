@@ -1,0 +1,87 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 670px;
+    height: 330px;
+    overflow: hidden;
+}
+
+#main {
+    width: 670px;
+    height: 330px;
+    /* 將背景圖換成新的設計圖 */
+    background: url('bg_new.jpg') no-repeat center center;
+    background-size: cover;
+    position: relative; /* 讓內部的連結可以絕對定位 */
+}
+
+/* 移除原本的 .news .list 樣式，改用新的連結容器 */
+.link-container {
+    width: 100%;
+    height: 100%;
+}
+
+/* 共用的透明按鈕樣式 */
+.btn-area {
+    position: absolute;
+    display: block;
+    /* debug用：如果你想看到按鈕範圍，把下面這行註解拿掉變成 red */
+    /* background: rgba(255, 0, 0, 0.3); */
+    cursor: pointer;
+    z-index: 10;
+}
+
+.btn-area:hover {
+    /* 滑鼠移過去時的微光效果 (選用) */
+    background: rgba(255, 255, 255, 0.1);
+    box-shadow: 0 0 10px rgba(255, 215, 0, 0.5);
+}
+
+/* --- 以下座標依照圖片目測推算，你可能需要微調 --- */
+
+/* 1. 上方：官方論壇 */
+.pos-forum {
+    top: 15px;
+    left: 280px;
+    width: 250px;
+    height: 70px;
+}
+
+/* 2. 中左：贊助 (點擊支持) */
+.pos-donate {
+    top: 100px;
+    left: 45px;
+    width: 320px;
+    height: 100px;
+}
+
+/* Facebook 按鈕位置設定 */
+.pos-fb {
+    top: 225px;       /* 高度與 LINE 按鈕一樣 */
+    left: 360px;      /* 位於 LINE 按鈕的左邊 */
+    width: 140px;     /* 按鈕寬度 */
+    height: 50px;     /* 按鈕高度 */
+    
+    /* 測試用：暫時把下面這行解除註解(拿掉前後的斜線星號)，可以看到紅色方塊，方便你對準位置 */
+    /* background: rgba(255, 0, 0, 0.5); */
+}
+
+/* (參考用) 這是原本 LINE 的位置，不用動它，僅供對照 */
+.pos-line {
+    top: 225px;
+    left: 520px;
+    width: 140px;
+    height: 50px;
+}
+
+/* 5. 最下方長條：LINE 客服 ID */
+.pos-line-id {
+    bottom: 10px;
+    left: 10px;
+    width: 650px;
+    height: 50px;
+}
