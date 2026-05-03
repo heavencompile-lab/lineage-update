@@ -14,7 +14,7 @@ body {
     width: 670px;
     height: 330px;
     /* 將背景圖換成新的設計圖 */
-    background: url('bg_new.jpg') no-repeat center center;
+    background: url('bg.jpg') no-repeat center center;
     background-size: cover;
     position: relative; /* 讓內部的連結可以絕對定位 */
 }
