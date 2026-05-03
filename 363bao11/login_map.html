@@ -4,9 +4,22 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- 加入這三行 Meta 標籤，強制瀏覽器不暫存 HTML 檔案 -->
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    
     <title>天堂</title>
-    <link href="images/style.css?v=20250130" rel="stylesheet">
-    </head>
+
+    <!-- 拿掉原本固定的 CSS 載入方式 -->
+    <!-- <link href="images/style.css?v=20250130" rel="stylesheet"> -->
+
+    <!-- 改用 JavaScript 動態加入帶有「當前時間戳記」的參數，確保每次讀取最新的 CSS 與裡面的圖片 -->
+    <script>
+        document.write('<link href="images/style.css?v=' + new Date().getTime() + '" rel="stylesheet">');
+    </script>
+</head>
 
 <body style="overflow: hidden;">
 
