@@ -1,6 +1,6 @@
 [main]
 count=16
-url=https://mojialineage1.dpdns.org/363MorningStar
+url=https://mojialineage1.dpdns.org/363morningtar
 [update]
 file_0=LinHelperZ.txt
 md5_0=75a4fa0a1b8529ad36474c88f5602d46
