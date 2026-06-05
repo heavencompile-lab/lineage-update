@@ -51,6 +51,6 @@ md5_22=a2f6324d0378f1a9e03eca56e143b948
 file_23=text\y_who-c.html
 md5_23=26fe17e8d3dc036f9603733a0e85b501
 file_24=text\y_who2-c.html
-md5_24=01655dc88c82ebfc2cf0e91fe7005fe0
+md5_24=f238ba9b90441ea7339dcb74ef42172f
 file_25=text\zone3-c.tbl
 md5_25=d8787b59d296accaf19de637e59b49a8
