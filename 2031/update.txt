@@ -1,6 +1,6 @@
 [main]
 count=13
-url=https://mojialineage1.dpdns.org/363bao
+url=https://mojialineage1.dpdns.org/2031
 [update]
 file_0=sprite\2207.img
 md5_0=8a845c8a3e3732995938c03f2c28cc9d
