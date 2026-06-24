@@ -1,5 +1,5 @@
 [main]
-count=22
+count=26
 url=https://mojialineage1.dpdns.org/2031
 [update]
 file_0=Login.pak
@@ -44,5 +44,13 @@ file_19=text\string-c.tbl
 md5_19=956cdb5e2275b2dadf79b3b6b972a00c
 file_20=text\talass-c.html
 md5_20=4d8e7e103ba848bfdd0f5361df40515e
-file_21=text\y_h_1-c.html
-md5_21=a72a03dd74f8a2944d009a92f0144e3d
+file_21=text\telegir1_1-c.html
+md5_21=44f7dba7a13007de2d833a29fa8a9499
+file_22=text\telegir2_1-c.html
+md5_22=2d42961f8e5f1196cfb02eaeb544a203
+file_23=text\telegir3_1-c.html
+md5_23=7521eb786d9f6f7777fde44e376aa690
+file_24=text\y_h_1-c.html
+md5_24=a72a03dd74f8a2944d009a92f0144e3d
+file_25=text\y_who2-c.html
+md5_25=dac2aa061a840ab0a0eafb0f40a3d587
