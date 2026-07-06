@@ -3,7 +3,7 @@ count=26
 url=https://mojialineage1.dpdns.org/2031
 [update]
 file_0=Login.pak
-md5_0=c066abef2a6f2492922a60604de4518f
+md5_0=5eb22103ef91dcb1e2e653936e29ffb2
 file_1=sprite\2207.img
 md5_1=8a845c8a3e3732995938c03f2c28cc9d
 file_2=sprite\2208.img
