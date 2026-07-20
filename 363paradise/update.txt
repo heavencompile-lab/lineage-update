@@ -1,6 +1,8 @@
 [main]
-count=1
+count=2
 url=https://mojialineage1.dpdns.org/363paradise
 [update]
 file_0=text\make4-c.html
 md5_0=80b78b5f98551953d1d7bd2e6bdb41db
+file_1=text\y_t_0_4-c.html
+md5_1=716e01fafeb25af2bc10deb18471e62e
