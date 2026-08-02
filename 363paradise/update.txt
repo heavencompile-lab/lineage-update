@@ -3,7 +3,7 @@ count=3
 url=https://mojialineage1.dpdns.org/363paradise
 [update]
 file_0=LinHelperZ.txt
-md5_0=339405ceb3c0e98d73dd73ecb4fc0890
+md5_0=75a4fa0a1b8529ad36474c88f5602d46
 file_1=text\make4-c.html
 md5_1=80b78b5f98551953d1d7bd2e6bdb41db
 file_2=text\y_t_0_4-c.html
