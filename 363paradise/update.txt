@@ -1,5 +1,5 @@
 [main]
-count=14
+count=15
 url=https://mojialineage1.dpdns.org/363paradise
 [update]
 file_0=LinHelperZ.txt
@@ -25,8 +25,10 @@ md5_9=b77b3d3e10ad0bebee7f0f070dca1ea0
 file_10=text\jp_ninotel11-c.html
 md5_10=3bfbbb8e1a3325c3b7b1ffa2a375ad3f
 file_11=text\make4-c.html
-md5_11=80b78b5f98551953d1d7bd2e6bdb41db
+md5_11=307bf13b5fd651d7eee162f41df5e08f
 file_12=text\make4_6-c.html
 md5_12=0e00a921b3199cd9bceb1b2eda7d95f4
-file_13=text\y_t_0_4-c.html
-md5_13=a9650b2934b5c3c369f0ac980cf5c92b
+file_13=text\make4_7-c.html
+md5_13=b3001a04ae9bd2828a9a35592dfa5983
+file_14=text\y_t_0_4-c.html
+md5_14=a9650b2934b5c3c369f0ac980cf5c92b
