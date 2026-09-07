@@ -1,5 +1,5 @@
 [main]
-count=41
+count=42
 url=https://mojialineage1.dpdns.org/363paradise
 [update]
 file_0=LinHelperZ.txt
@@ -82,5 +82,7 @@ file_38=text\make4_7-c.html
 md5_38=b3001a04ae9bd2828a9a35592dfa5983
 file_39=text\shop750-c.html
 md5_39=b44177b09236a9773225e581387a5bce
-file_40=text\y_t_0_4-c.html
-md5_40=a9650b2934b5c3c369f0ac980cf5c92b
+file_40=text\shop753-c.html
+md5_40=1572bced1c23f4883b1d8197f34b4d1f
+file_41=text\y_t_0_4-c.html
+md5_41=a9650b2934b5c3c369f0ac980cf5c92b
