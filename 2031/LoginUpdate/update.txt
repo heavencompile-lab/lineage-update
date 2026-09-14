@@ -11,11 +11,11 @@ md5_1=5cdabc255aa4de07f8caa9d9cc37d53e
 file_2=list.spr.pak
 md5_2=4a057cddb505445f548c6619158b05d6
 file_3=Login.dll
-md5_3=62883131f5c9fcfafdb6ed0a193aaf11
+md5_3=f138a4029ed60f18bf87173a8ec48e70
 file_4=Skill.pak
 md5_4=41feeeeb82892ac0675e1e70bb2ca2c2
 
 [signature]
 key_id=lcx-prod-20260729-v1
 algorithm=ecdsa-p256-sha256
-signature=bp9Y0xjMngkt77Cr9udMBLWEHoWcG8NmIdVFbEeplIsFM+CEVB0ZVGOHapk0jXcIfVO015PkHotLTIJKmNzeOA==
+signature=nrnYx3MPpMlM0EF/GjSp+/hZrQ85MgfkiF7mvSKWRFq4bFaIXhD3cJuqxR+BHVBHYLsUKmYYBE5ic5B1R1MTRw==
