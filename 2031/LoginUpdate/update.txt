@@ -9,7 +9,7 @@ md5_0=66f6f4f790f47c9fb22a36fe581abc92
 file_1=LinHelperZ.txt
 md5_1=5cdabc255aa4de07f8caa9d9cc37d53e
 file_2=list.spr.pak
-md5_2=4a057cddb505445f548c6619158b05d6
+md5_2=ac42dfd516527c82d7e27ca0be3d3c91
 file_3=Login.dll
 md5_3=f138a4029ed60f18bf87173a8ec48e70
 file_4=Skill.pak
@@ -18,4 +18,4 @@ md5_4=41feeeeb82892ac0675e1e70bb2ca2c2
 [signature]
 key_id=lcx-prod-20260729-v1
 algorithm=ecdsa-p256-sha256
-signature=JSZLZHhrSQPmmCezzFJe+8lKcttfVYa5wRdFAySL86hfxshDq5BL9tWyAndzPXSZo9Zw1t5UgHFNtuIztCl8MA==
+signature=KoSIW33TcVmCOE3h8NOwZ+SM78IYoX9SQt4POw57AsDAYm5H8Ag/PPrjbybSXcp0Tdly3z9eR2+nUvkbJzFyDw==
