@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NewList WebsiteUrl="https://otian1434-star.github.io/my-gas-link/" FontSize="15" DateFontSize="14">
+  <Item Url="https://otian1434-star.github.io/my-gas-link/pages/news.html" Color="#FF8040" Tile="最新公告" Date="2026.09.09">最新公告</Item>
+  <Item Url="https://otian1434-star.github.io/my-gas-link/pages/events.html" Color="#FF8040" Tile="活動公告" Date="2026.09.09">活動公告</Item>
+  <Item Url="https://web-hosts.net/%E6%9B%9C%E8%88%9E%E5%A4%A9%E5%A0%82.html" Color="#FF8040" Tile="立即贊助" Date="2026.09.09">立即贊助</Item>
+  <ActivityList>
+    <Item Url="http://www.kltt.com" Image="news/test2.png" Tile="端午活动" Date="2026.06.12">梦幻之岛 乐园地图都掉落粽子 粽子6.20删除！</Item>
+  </ActivityList>
+</NewList>
