@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NewList WebsiteUrl="https://www.youtube.com/">
+  <Item Url="https://www.youtube.com/" Color="#CEBE9C" Image="news/test2.png" Tile="經典服測試" Date="2026.05.08">經典服測試預約中！</Item>
+  <Item Url="https://www.youtube.com/" Color="#CEBE9C" Image="news/test1.png" Tile="經典服測試" Date="2026.05.08">經典服測試預約中！</Item>
+  <Item Url="https://www.youtube.com/" Color="#CEBE9C" Image="news/test3.png" Tile="經典服測試" Date="2026.05.08">經典服測試預約中！</Item>
+  <ActivityList>
+    <Item Url="http://www.kltt.com" Image="news/test2.png" Tile="端午活动" Date="2026.06.12">梦幻之岛 乐园地图都掉落粽子 粽子6.20删除！</Item>
+  </ActivityList>
+</NewList>

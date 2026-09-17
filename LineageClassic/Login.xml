@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ServerList>
+  <Server1>
+    <ServerName>測試</ServerName>
+    <ServerData>6MYsTPNr+UZmaWDXN0FBBJsdTEGPApXUSPXtCD9FHvpiHsqEaMtQ/A04Nn5n7+s56fB3UIpwwc79UCOVK6HtUTCkLMCPfW/S3xWHk2vAsrOsJkfLpsAyri7fFDwW41zU0pFSVLMcF/R5xnOkFtf3KOj2DbrrB6UIrEhxfh9nIOoh6kulV6sffAAC8bn0gHEPbZN4EaVZi4wMEQ6x6SjjV2Qf8iYjboqvwy/eEfXS4g9g9z6HGO0m/g==</ServerData>
+  </Server1>
+  <Server2>
+    <ServerName>測試2</ServerName>
+    <ServerData>6MYsTPNr+UZmaWDXN0FBBMU+mAiMF+I0DEXVQlPvViT25jZIRQiug3z3A9EEZqup/96iMd8vedmJGDaTAvhwPxojYClcyQeAD88baMcqeVoFLAORvFPlKgddtuDzcQAm8QCmvRnRkYnfJTm29I813ejstMG71HAis83tWjVJnczhpjJT5RUOBzwD9IC72XJz2fwqra4mnNbeAxpHhBaWdRG7C9LZjTenWkWr81YGZ+Chz9tyaNSUHA==</ServerData>
+  </Server2>
+</ServerList>
