@@ -1,7 +1,7 @@
 LCX_RESOURCE_UPDATE=3
-Package=0-013.lcxu
+Package=0-014.lcxu
 Format=3
 PackageSize=25469608
 Baseline=0
-TargetVersion=0-013
-URL=https://mojialineage1.dpdns.org/LineageClassic/LoginUpdate/0-013.lcxu
+TargetVersion=0-014
+URL=https://mojialineage1.dpdns.org/LineageClassic/LoginUpdate/0-014.lcxu
