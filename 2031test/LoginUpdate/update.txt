@@ -18,4 +18,4 @@ md5_4=ec55a6fd74aff6f979fca29d203d549a
 [signature]
 key_id=lcx-prod-20260729-v1
 algorithm=ecdsa-p256-sha256
-signature=J651IxAZuJKLeeXxMejdioevovEqoU4coTpKWk2xI6KHJ0/ZmQN4S968E1f62SK7SCHotuayNGFgJQ4CcX58dw==
+signature=MKfoLlJFZMzdkP1EtolJyK7K0Sl24XY194eEJaHw7dRzVaTcu1ukqBam1zInxKvf+WaglqnQdOUCfBLoA7LCYA==
