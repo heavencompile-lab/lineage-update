@@ -1,7 +1,7 @@
 LCX_RESOURCE_UPDATE=3
-Package=20260909-053.lcxu
+Package=20260909-055.lcxu
 Format=3
-PackageSize=55923977
+PackageSize=53037801
 Baseline=20260909
-TargetVersion=20260909-053
-URL=https://mojialineage1.dpdns.org/2031test/LoginUpdate/20260909-053.lcxu
+TargetVersion=20260909-055
+URL=https://mojialineage1.dpdns.org/2031test/LoginUpdate/20260909-055.lcxu
