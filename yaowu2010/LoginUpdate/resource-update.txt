@@ -1,0 +1,7 @@
+LCX_RESOURCE_UPDATE=3
+Package=20260909-060.lcxu
+Format=3
+PackageSize=53037801
+Baseline=20260909
+TargetVersion=20260909-060
+URL=https://mojialineage1.dpdns.org/yaowu2010/LoginUpdate/20260909-060.lcxu
