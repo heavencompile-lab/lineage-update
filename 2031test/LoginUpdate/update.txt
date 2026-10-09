@@ -7,7 +7,7 @@ url=https://mojialineage1.dpdns.org/2031test/LoginUpdate
 file_0=CloudMap.cfg
 md5_0=66f6f4f790f47c9fb22a36fe581abc92
 file_1=LinHelperZ.txt
-md5_1=5cdabc255aa4de07f8caa9d9cc37d53e
+md5_1=e6c9547a9398699d717b5771e82c2df0
 file_2=list.spr.pak
 md5_2=95f2e0e8b610834f6d8e5cd729d3ec24
 file_3=Login.dll
@@ -336,4 +336,4 @@ md5_163=ec55a6fd74aff6f979fca29d203d549a
 [signature]
 key_id=lcx-prod-20260729-v1
 algorithm=ecdsa-p256-sha256
-signature=D03zKNCyudZxYPvzAVaPo8VMjg85q6pbWnccSAnoyL5RFBrq9dqJvHauKMM4V7fJz7bNj/cx3x7Ru8cQ3AUeZw==
+signature=4mYzhjJA4hnfEbfgvypx98oBtWXe3SP69ShS5wJnQ+0qkTSCCz8a9ZZq4dK8DHdcz1+NNGS+j9Nlokwu4zTjnA==
