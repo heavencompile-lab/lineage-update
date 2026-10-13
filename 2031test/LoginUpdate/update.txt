@@ -336,4 +336,4 @@ md5_163=ec55a6fd74aff6f979fca29d203d549a
 [signature]
 key_id=lcx-prod-20260729-v1
 algorithm=ecdsa-p256-sha256
-signature=jhdTQo+n5lWs0e8vbhfrLV2ZVEEX7lAdKfkaH+6guLpp/Bd+TUoqb7kn5EZowO3I9HUF9NtYtZjD5nEzg87vXQ==
+signature=65SUIU6ciQtPXtGFXkyTmuHVy/sV1oWI9KZ6tTFAhuqCgrrvKlkDtVxV57SLBpdTHGQODW3HYTa0UHVW6H8zOg==
