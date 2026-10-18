@@ -1,6 +1,6 @@
 ;LCX_SIGNED_UPDATE=2
 [main]
-count=164
+count=165
 url=https://mojialineage1.dpdns.org/yaowu2010/LoginUpdate
 
 [update]
@@ -330,10 +330,12 @@ file_161=map/634/80028000.s32
 md5_161=28a8dd6408ef273769a64ee6a27ea903
 file_162=map/634/80028001.s32
 md5_162=c1da9b75973ca22482d78defa6bcacfe
-file_163=Skill.pak
-md5_163=ec55a6fd74aff6f979fca29d203d549a
+file_163=MapEffect.cfg
+md5_163=7a8764ada7c1fcb711508f7098e8ae17
+file_164=Skill.pak
+md5_164=ec55a6fd74aff6f979fca29d203d549a
 
 [signature]
 key_id=lcx-prod-20260729-v1
 algorithm=ecdsa-p256-sha256
-signature=W1xfNcSuRk2xXz5tE+/DDQ2JIJvlHNhzJLFVYxLys7h7vNqAa7OYD2HSt6E5wbEGZ6VcXGKQxZS/lpvT9WOotQ==
+signature=a9E5uWju7YMMnuAgBQS+/QnWyxYtDu8vx5QZdutZJYOIwOmy3upBy7SM9F1Xwg2mxCIdUehZzUMR6PTwyV9/qA==
